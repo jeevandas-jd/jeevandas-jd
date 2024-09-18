@@ -6,7 +6,7 @@
 
 - 
 - ### Connect with me
-- [LinkedIn](https://www.linkedin.com/in/your-link/)
+- [LinkedIn](https://www.linkedin.com/in/jeevandas-m-s-0151a028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
