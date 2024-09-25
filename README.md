@@ -1,7 +1,7 @@
 ### Hello World, I'm Jeevandas M S 👋
 - 🛫 Passionate about aviation and aspiring AI/ML researcher.
 - 🎓 Studying Imsc at the Department of Computer Science, CUSAT.
-- 💻 Currently working on [Lend My Compute](#) and other cool projects.
+- 💻 Currently working on  some cool projects.
 - 🌱 Exploring algorithms and machine learning, with a focus on aviation-related innovations.
 
 - 
