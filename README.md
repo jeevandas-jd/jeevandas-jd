@@ -1,6 +1,6 @@
 # 👋 Hello World, I'm Jeevandas M S
 
-### 💻 Software Engineer | AI/ML Enthusiast
+### 💻 Software Engineer in the making | AI/ML Enthusiast
 - 🌟 **Vision:** Bridging data-driven solutions with real-world problems.  
 - 🛠 **Tech Stack:** Full Stack Development, Django REST Framework, MERN Stack, Electron.js, Databases, AWS, Machine Learning, Deep Learning, Agentic AI, AutoGen, Computer Vision.  
 - 🖥 **Languages:** Java, C, C++, Python, JavaScript, TypeScript.  
