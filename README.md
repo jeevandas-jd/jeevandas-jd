@@ -1,44 +1,59 @@
 # 👋 Hello World, I'm Jeevandas M S
 
-### 💻 Software Engineer in the making | AI/ML Enthusiast
-- 🌟 **Vision:** Bridging data-driven solutions with real-world problems.  
-- 🛠 **Tech Stack:** Full Stack Development, Django REST Framework, MERN Stack, Electron.js, Databases, AWS, Machine Learning, Deep Learning, Agentic AI, AutoGen, Computer Vision.  
-- 🖥 **Languages:** Java, C, C++, Python, JavaScript, TypeScript.  
-- 🐧 **Other Skills:** Linux user, JavaScript frameworks.  
-- 🌱 **Currently Exploring:** Advanced algorithms, AI/ML innovations, aviation tech applications.
+
+
+Integrated M.Sc Computer Science (AI & Data Science) @ CUSAT · 2023–2028  
+Building LLM applications, multi-agent workflows, and graph-based reasoning systems  
+[jeevandas.tech/dev](https://jeevandas.tech/dev) · Thrissur, Kerala, India
 
 ---
 
-## 🚀 My Projects
-Here are some cool projects I’m working on:  
+## What I Work On
 
-- **[ICU-DIGITAL-TWIN](https://github.com/jeevandas-jd/ICU-DIGITAL-TWIN)** – A digital twin ICU system for monitoring patients remotely.  
-- **[EduSmart](https://github.com/jeevandas-jd/EduSmart)** – AI-powered educational support platform.  
-- **Other Projects:** Full stack web apps, ML models, and aviation-related AI projects.
-
----
-
-## 🛠 Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Coffee?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
+- **Agentic AI** — Multi-agent systems with AutoGen & LangChain (ReAct, RAG, memory-augmented agents)
+- **Temporal Knowledge Graphs** — Neo4j-based memory for smart-home agents
+- **Retrieval-Augmented Generation** — PDF QA pipelines, semantic retrieval, vector indexing
+- **Full-Stack Development** — MERN, Django REST, AWS (EC2, Lambda, S3, CloudFront)
 
 ---
 
-## 📈 GitHub Stats
-![Jeevandas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevandas-jd&show_icons=true&theme=radical)
+## Selected Projects
+
+| Project | Description |
+|---|---|
+| [**TKG Agent**](https://github.com/jeevandas-jd) | Temporal Knowledge Graph memory for smart-home agents using Neo4j + ReAct inside SimuHome |
+| [**Agro Sentinel**](https://github.com/jeevandas-jd) | AI crop damage assessment app — 6th place among 540+ teams @ Jain University × IBM Hackathon 2026 |
+| [**Smart Math Tutor**](https://github.com/jeevandas-jd) | Multi-agent math reasoning system with AutoGen, LangChain, and SymPy verification |
+| [**Camp Rider**](https://github.com/jeevandas-jd) | Campus ride-sharing platform on AWS with Node.js + MongoDB |
+| [**ICU Digital Twin**](https://github.com/jeevandas-jd/ICU-DIGITAL-TWIN) | Remote ICU patient monitoring using a digital twin system |
 
 ---
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevandas-m-s-0151a028a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeevandas-jd)
+## Tech Stack
+
+**AI/ML**  
+`Python` `PyTorch` `TensorFlow` `Hugging Face` `LangChain` `AutoGen` `RAG` `LLM APIs`
+
+**Databases**  
+`Neo4j` `ChromaDB` `MongoDB`
+
+**Backend & Cloud**  
+`Django` `Node.js` `REST APIs` `AWS (EC2 · Lambda · S3 · CloudFront)` `Firebase`
+
+**Languages**  
+`Python` `C++` `Java` `C` `Dart` `JavaScript`
+
+---
+
+## GitHub Stats
+
+![Jeevandas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeevandas-jd&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeevandas-m-s)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jeevandas-jd)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://jeevandas.tech/dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jeevandas@ug.cusat.ac.in)
